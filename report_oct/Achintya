@@ -1,0 +1,6 @@
+Progress report 
+Project: Developing an image depth sensing algorithm and implementation on FPGA
+I have been mainly focussed on learning the pre-requisites so far. 
+Have gone through EPFL’s coursera courses on Digital Signal Processing basics (eg. DTFT, filters). 
+Also learnt Verilog basics via an NPTEL online course. 
+Went through the introductory part of some research papers related to the project to gain better understanding.
