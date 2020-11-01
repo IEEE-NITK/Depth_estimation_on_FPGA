@@ -1,0 +1,7 @@
+Progress in the project - Development of image depth sensing algorithm and implementation
+on fpga.
+
+This month I focused on mainly learning the pre-requisites of the project , 
+Digital Signal processing using matlab basics (Things like DFFT, filters) were learnt.
+Brushing up topics like verilog code reuqired for hardware implementation .
+Better idea of the project was gained reading some papers related to the project.
